@@ -13,5 +13,17 @@ npm install --save @alchemyalcove/basic-functions
 ## Use
 
 ```javascript
-import Color from "@alchemyalcove/basic-functions";
+import { cx, isNil } from "@alchemyalcove/basic-functions";
+
+cx({
+"foo": true,
+"bar": true,
+"test": false,
+"wrong": false,
+"bugs": true
+});
+// foo bar bugs
+
+isNil(undefined);
+// true
 ```
