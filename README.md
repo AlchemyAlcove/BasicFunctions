@@ -4,6 +4,8 @@ Basic functions used by AlchemyAlcove apps. These are functions that are used so
 
 *No dependencies*
 
+348 bytes minified download size
+
 ## Install
 
 npm install --save @alchemyalcove/basic-functions
