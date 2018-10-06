@@ -1,4 +1,4 @@
-import { isNil } from "../../src";
+import { isNil } from "../src";
 
 test("null is nil", () => {
   expect(isNil(null)).toBe(true);
