@@ -1,6 +1,6 @@
 {
   "name": "@alchemyalcove/basic-functions",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Ether Basic Functions",
   "author": "Mike Hoffert",
   "main": "index.js",
